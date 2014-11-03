@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="sat_res_js"
+  id="myeclipse.1415031608600"
+  context-root="/sat_res_js"
+  j2ee-spec="6.0"
+  archive="sat_res_js.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
