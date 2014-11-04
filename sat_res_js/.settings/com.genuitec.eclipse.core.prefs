@@ -1,0 +1,4 @@
+#Tue Nov 04 23:09:55 CST 2014
+eclipse.preferences.version=1
+validator.Checked=src/main/webapp/extern-js/d3/d3.js
+validator.Unchecked=
